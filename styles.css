@@ -479,7 +479,7 @@ box-shadow: var(--box-shadow-sm);
     position: relative;
     z-index: 2;
     top: -50px;
-    left: 25px;
+    right: 25px;
 }
 
 
